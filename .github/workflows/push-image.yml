@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: Build Image
-    runs-on: ubuntu-latest
+    runs-on: yldm-backend-runners
 
 
     steps:
